@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+}
+ul, li {
+  list-style: none;
+  margin: 3px;
+  padding: 0px;
+}
+input {
+  width: 350px;
+  height: ;
+}

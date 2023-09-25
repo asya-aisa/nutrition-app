@@ -1,0 +1,6 @@
+.App
+ul, li {
+  list-style: none;
+  margin: 3px;
+  padding: 0px;
+}
